@@ -9,6 +9,12 @@ To use the PowerCLI SketchPad, simply visit: [HERE](https://doublecloudinc.githu
 
 Note: although running in your browser, your code does not go back to the server. **It starts at local and remain so all the time.**
 
+Click on the following image for Youtube Video in 26 seconds.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=UDgxj4IIB5M
+" target="_blank"><img src="http://img.youtube.com/vi/UDgxj4IIB5M/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" /></a>
+
+
 ## How to Contribute - Much Easier than Anyone would Expect
 
 We welcome all the contributions. It's VERY easy to share a code snippet with the community. All you need to do is to send us a simple code snippet that look like the following:
