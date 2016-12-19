@@ -5,7 +5,9 @@ This is the repository for the Powercli SketchPad, which empowers VMware adminis
 This is the easiest and quickest way to get your script done.
 
 ## Live Site
-To use the PowerCLI SketchPad, simply visit: [HERE](https://doublecloudinc.github.io/powercli-sketchpad/). Note: although running in your browser, your code does not go back to the server. **It starts at local and remain so all the time.**
+To use the PowerCLI SketchPad, simply visit: [HERE](https://doublecloudinc.github.io/powercli-sketchpad/).
+
+Note: although running in your browser, your code does not go back to the server. **It starts at local and remain so all the time.**
 
 ## How to Contribute - Much Easier than Anyone would Expect
 
@@ -30,3 +32,4 @@ The last part is the *documentation*, a short description for your code snippet.
 That is it. Ready to write your first code snippet?
 
 ## Where to Start
+You can either use git as normal, or simply use this No.1 issue to share your code: https://github.com/DoubleCloudInc/powercli-sketchpad/issues/1
