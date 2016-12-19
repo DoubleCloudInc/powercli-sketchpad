@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>PowerCLI SketchPad - DoubleCloud</title>
+  <meta name="description" content="Automation Script Sketchpad for VMware PowerCLI - vSphere, ESX, ESXi." />
+  <meta name="description" content="Automation Script Sketchpad for VMware PowerCLI - vSphere, ESX, ESXi." />
+  <meta name="keywords" content="VMware, vSphere, PowerCLI, HTML5, Editor, IDE, DoubleCloud, DoubleCloud Inc., Infrastructure, Data center, Devops, Automation"/>
+  
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+</head>
+<body>
+<div>Note: although running in browser, <em>your code stays local</em>. </div>
+<div id="container" style="width:800px;height:600px;border:1px solid grey"></div>
+<div>Copyright <a href="http://www.doublecloud.net" target="_blank">DoubleCloud Inc.</a></div>
+
+<script src="vs/loader.js"></script>
+<script src="bundle.js"></script>
+<script>
+  require.config({ paths: { 'vs': 'vs' }});
+  require(['vs/editor/editor.main'], function(){
+      startEditor();
+  });
+</script>
+
+</body>
+</html>
