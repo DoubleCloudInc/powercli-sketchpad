@@ -70,6 +70,11 @@
     "documentation": "Connect to a vCenter server or ESX/ESXi server"
   },
   {
+    "label": "dc-server-get-time",
+    "insertText": "\n$si = Get-View ServiceInstance\n$si.CurrentTime()\n",
+    "documentation": "Retrieve the current server time from vCenter or ESX/ESXi server"
+  },
+  {
     "label": "passthroughdevice_add_def",
     "documentation": "Add-PassthroughDevice [[-VM] <VirtualMachine[]>] [-PassthroughDevice] <PassThroughDevice[]> [-Server <VIServer[]>] [-Verbose] [-Debug] [-ErrorAction <ActionPreference>] [-WarningAction <ActionPreference>] [-ErrorVariable <String>] [-WarningVariable <String>] [-OutVariable <String>] [-OutBuffer <Int32>] [-WhatIf] [-Confirm]",
     "kind": 14,
